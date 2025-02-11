@@ -2,8 +2,6 @@
 
 Super Mario game built in Javascript using Kaboom.js
 
-More levels and features in progress
-
 # Levels
 
 Level1
